@@ -71,10 +71,15 @@ Raw Data → Feature Engineering → Graph Construction → Graph Metrics
 
 ## 📂 Project Structure
 ├── app.py # Streamlit UI
+
 ├── linkedin_graph_ml_bda.py # Main pipeline
+
 ├── linkedin-users-by-country-2024.csv
+
 ├── report.pdf # Full report
+
 ├── requirements.txt
+
 └── README.md
 
 
@@ -149,8 +154,8 @@ streamlit
 
 ## 👨‍💻 Author
 
-**Aman (25MA60R31)**  
-B.Tech Electrical Engineering  
+**Aman**  
+CSE 
 IIT Kharagpur  
 
 ---
